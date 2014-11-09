@@ -1,0 +1,9 @@
+{
+    "lib": {
+        "www": {
+            "id": "topster.idiotentest",
+            "version": "3.6.0",
+            "uri": "https://github.com/phonegap/phonegap-app-idiotentest/archive/3.6.0.tar.gz"
+        }
+    }
+}
